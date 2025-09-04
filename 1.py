@@ -1,0 +1,7 @@
+print("INTRODUCTION")
+print("My name is Shravya")
+print(" I was born in Saudhi Arabia")
+print("I loved coing since I as 9 years old")
+print("My favorite series is AIB🔫 AND Stranger Things💀")
+print("My favorite color is Purple💜")
+print("My dream University is Stanford.")
